@@ -30,8 +30,7 @@ h1, h2, h3, h4, h5, h6{
     justify-content: center;
     width: 100%;
     height: 100vh;
-    background: url("https://lh3.googleusercontent.com/proxy/gmqYHrcqUhq92eBXSOZ6_cqwYFClVMUhOCBO5OlTX9K79Xh5kR_9UoB4V6bNsPrz_c7Wee5XhtQW97WuMUfS6iwojYh0c1Cl6X8qd-bh5IfZYzxl2H_b1y6-Orsh0JMEn60P")
-    center no-repeat;
+    background: url("../MyProject1/Image for Mogo.jpg") center no-repeat;
     background-size: cover;
 }
 
