@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e653ed5-c3c9-48f0-9f42-8096759fc855" name="Default Changelist" comment="Initial commit">
+    <list default="true" id="0e653ed5-c3c9-48f0-9f42-8096759fc855" name="Default Changelist" comment="Commit 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image for Mogo.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -65,7 +64,8 @@
       <workItem from="1597325599040" duration="7322000" />
       <workItem from="1597406195621" duration="15101000" />
       <workItem from="1597501379343" duration="7229000" />
-      <workItem from="1597575891969" duration="14416000" />
+      <workItem from="1597575891969" duration="16906000" />
+      <workItem from="1597680364063" duration="8410000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1596876190923</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597332595246</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit 1">
+      <created>1597600063679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597600063679</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1596974763505">
@@ -152,10 +160,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="568" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596876055597" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597332659400">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597600067234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597332659400" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597600067234" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596977637413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
