@@ -56,6 +56,7 @@ $(function (){
     });
 
 
+
     /* Slider */
     $("[data-slider]").slick({
         infinite: true,
@@ -63,5 +64,10 @@ $(function (){
         slidesToShow: 1,
         slidesToScroll: 1
     });
+
+
+
+
+
 
 })
